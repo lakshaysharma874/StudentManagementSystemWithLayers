@@ -1,0 +1,243 @@
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.pdb
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.rsp
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.rsp
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.AppContext.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Collections.Immutable.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Console.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Compression.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Reflection.Metadata.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.AccessControl.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Claims.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.ValueTuple.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.rsp
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csprojAssemblyReference.cache
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CoreCompileInputs.cache
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CopyComplete
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.pdb
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.SqlServer.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.pdb
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.pdb
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll.config
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Asp.net mvc\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.pdb
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.rsp
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.rsp
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.AppContext.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Collections.Immutable.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Console.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Compression.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Reflection.Metadata.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.AccessControl.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Claims.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.ValueTuple.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.rsp
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.SqlServer.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.pdb
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.pdb
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll.config
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csprojAssemblyReference.cache
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CoreCompileInputs.cache
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CopyComplete
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.dll
+E:\Gurpinder Assignments\Gurpinder 6th Assignment\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.pdb
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\StudentManagementSystemWithLayers.pdb
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.exe.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csc.rsp
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.exe.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\csi.rsp
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.AppContext.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Console.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Compression.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Claims.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.ValueTuple.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.exe.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\vbc.rsp
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\EntityFramework.SqlServer.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\BussinessLayer.pdb
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.pdb
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\DataLayer.dll.config
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\de\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\it\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ja\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ko\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csprojAssemblyReference.cache
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CoreCompileInputs.cache
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.csproj.CopyComplete
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.dll
+C:\Users\lakshay sharma\Desktop\6th assignment Lakshay\StudentManagementSystemWithLayers\StudentManagementSystemWithLayers\obj\Debug\StudentManagementSystemWithLayers.pdb
